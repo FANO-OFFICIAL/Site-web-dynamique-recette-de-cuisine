@@ -1,5 +1,5 @@
 # Site-web-dynamique-recette-de-cuisine
-Site web dynamique qui permettra aux utilisateurs de contribuer en partageant des recettes de cuisine
+Site web dynamique qui permettra aux utilisateurs de contribuer en partageant des recettes de cuisine sur base du Cours Openclassrooms [ Concevez votre site web avec PHP et MySQL ](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql) Retrouvez les codes sources sur le [ Dépôt Github](https://github.com/OpenClassrooms-Student-Center/Concevez-votre-site-web-avec-PHP-MySQL).
 
 Objectifs pédagogique : 
 
